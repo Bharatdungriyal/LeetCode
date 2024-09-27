@@ -35,4 +35,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Bharatdungriyal/LeetCode/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Bharatdungriyal/LeetCode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Bharatdungriyal/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
