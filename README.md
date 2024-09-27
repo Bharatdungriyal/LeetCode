@@ -11,6 +11,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Bharatdungriyal/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Bharatdungriyal/LeetCode/tree/master/0075-sort-colors) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Bharatdungriyal/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,8 +40,10 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Bharatdungriyal/LeetCode/tree/master/0155-min-stack) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Bharatdungriyal/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Bharatdungriyal/LeetCode/tree/master/0155-min-stack) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Bharatdungriyal/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
